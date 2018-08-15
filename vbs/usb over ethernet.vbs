@@ -1,3 +1,11 @@
+'-----------------------------------------------
+' A partir d'un raspbian fraichement installé,
+' Ce script active :
+' - sshd
+' - USB over ethernet (dwc2 & g_ether)
+' La sdcard doit être sur le lecteur D:
+'-----------------------------------------------
+
 Const forReading=1
 Const forWriting=2
 
